@@ -1,16 +1,21 @@
-site_name: TheStrechh
+site_name: Carlos Arriaga
+repo_url: https://github.com/TheStrechh/TheStrechh.github.io
+edit_uri: ""
 
 markdown_extensions:
   - toc:
       permalink: true
 
 theme:
+  icon:
+    repo: fontawesome/brands/git-alt
   name: material
   font:
     text: Ysabeau Office
 
   features:
     - navigation.tabs
+    - navigation.footer
 
   palette:
 
@@ -24,3 +29,5 @@ nav:
     - Getting started: 'index.md'
     - Download links: 'downloads.md'
     - Troubleshooting: 'troubleshooting.md'
+
+copyright: Copyright &copy; 2022 - 2023 Carlos Arriaga
