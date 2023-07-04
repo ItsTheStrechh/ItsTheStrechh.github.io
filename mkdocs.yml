@@ -1,1 +1,4 @@
 site_name: TheStrechh
+
+theme:
+  name: material
