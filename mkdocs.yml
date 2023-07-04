@@ -12,6 +12,14 @@ theme:
   features:
     - navigation.tabs
 
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: yellow
+      accent: blue
+
 nav:
     - Getting started: 'index.md'
     - Download links: 'downloads.md'
