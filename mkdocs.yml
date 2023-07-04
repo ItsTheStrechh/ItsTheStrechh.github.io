@@ -11,6 +11,7 @@ theme:
     repo: fontawesome/brands/git-alt
   name: material
   favicon: images/favicon.png
+  logo: images/logo.png
   font:
     text: Ysabeau Office
 
