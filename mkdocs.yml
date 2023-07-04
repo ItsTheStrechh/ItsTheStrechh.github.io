@@ -2,3 +2,5 @@ site_name: TheStrechh
 
 theme:
   name: material
+  font:
+    text: Ysabeau Office
