@@ -1,6 +1,18 @@
 site_name: TheStrechh
 
+markdown_extensions:
+  - toc:
+      permalink: true
+
 theme:
   name: material
   font:
     text: Ysabeau Office
+
+  features:
+    - navigation.tabs
+
+nav:
+    - Getting started: 'index.md'
+    - Download links: 'downloads.md'
+    - Troubleshooting: 'troubleshooting.md'
